@@ -45,7 +45,7 @@ CareLoop should prioritise appointments with higher predicted no-show risk for p
 
 ## Project Files
 
-- `all_code.ipynb` — Combined Python, machine learning and GenAI implementation.
+- 01_ingest_clean+03_model+04_genai.ipynb — Combined Python, machine learning and GenAI implementation.
 - `02_queries.sql` — SQL queries and analysis.
 - `load_data.sql` — SQL database loading statements.
 - `appointments_clean.csv` — Cleaned appointment records.
